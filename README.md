@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <img src="[https://img.icons8.com/doodle/96/000000/open-book--v1.png](https://lh3.googleusercontent.com/gg-dl/AJfQ9KSk2hya1bBrDJtukSrV9aA2uYlF-xBkNnHTfQYWX3jqS7wiMkEhU96XD4eg_eHVVV6ODG0OWD3WZF05YRMywZrx_eiph4AdUobDBIuz2A-2pF9JFfdKb6tQLI9ZX9DHM5hXINv3FwSm6aLt15FW7DBco2oMX_LrFkao5IuG8wov6OacSQ)" width="60" alt="Book"/>
+  <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740&q=80" width="60" alt="Book"/>
   <br>
   <i>“Learning never exhausts the mind.”</i>
 </p>
